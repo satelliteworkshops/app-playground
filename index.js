@@ -1,0 +1,1 @@
+console.log("I am a very advanced JavaScript application")
