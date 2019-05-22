@@ -9,7 +9,7 @@
   "author": "Wilhelm Klopp",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
-    "helmet": "^3.14.0"
+    "express": "^4.12.2",
+    "helmet": "^3.10.0"
   }
 }
