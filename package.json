@@ -11,6 +11,6 @@
   "dependencies": {
     "express": "^4.16.3",
     "helmet": "^3.14.0",
-    "cool": "0.0.0"
+    "cool": "0.1.0"
   }
 }
